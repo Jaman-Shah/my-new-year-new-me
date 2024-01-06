@@ -47,8 +47,11 @@ body {
   font-size: 20px;
   font-weight: 600;
   background-color: orangered;
+  border-radius: 5px;
   border: 0;
   padding: 20px 25px;
+  margin-top: 32px;
+
 }
 
 /* header section ends  */
