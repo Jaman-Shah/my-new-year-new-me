@@ -181,3 +181,67 @@ body {
   margin-top: 25px;
 }
 /* hand area ends */
+
+
+/* footer area starts */
+footer{
+  display: flex;
+  background-color: #151414;
+  color: white;
+  padding: 130px 230px;
+}
+footer .left-side h1{
+  margin-bottom: 16px;
+  color: #F8F8F8;
+  font-size: 45px;
+  font-weight: 700;
+}
+footer .left-side p{
+  width: 485px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; 
+  margin-bottom: 24px;
+}
+footer .left-side h3{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 32px; /* 162.5% */
+}
+.left-side .foot-icons img{
+  margin-right: 15px;
+}
+
+
+.right-side{
+  margin-left: 100px;
+}
+.right-side h1{
+  font-size: 25px;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 31px;
+}
+.right-side input{
+  background-color: #151414;
+  font-size: 18px;
+  color: white;
+  font-weight: 400;
+  width: 325px;
+  height: 64px;
+  border-radius: 8px;
+  border: 1px solid #FFF;
+  padding: 21px;
+  margin-bottom: 16px;
+}
+.right-side button{
+  width: 170.106px;
+  height: 64px;
+  border-radius: 8px;
+  background: #FFF;
+  color: #F15B22;
+  font-size: 20px;
+  font-weight: 600;
+}
+/* footer area ends */
