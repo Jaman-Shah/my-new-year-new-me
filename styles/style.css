@@ -106,4 +106,78 @@ body {
 }
 
 /* person's life status ends  */
+
+
+/* plans are starts  */
+
+.plans-area{
+  margin: 135px 230px;
+}
+.plans-area > h1{
+  text-align: center;
+}
+.plan-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-container{
+  display: flex;
+  width: 92.958px;
+  height: 92.958px;
+  align-items: center;
+}
+.plan-items h1{
+  color: var(--Dark-01, #151414);
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+}
+.plan-items h3{
+  color: var(--Dark-03, #737272);
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  }
+
+
+/* plans are ends  */
+
 /* main section ends */
+
+
+
+/* hand area starts  */
+
+
+.hand-area{
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  margin: 130px 230px;
+  height: 300px;
+  padding:60px 0px 60px 64px;
+  border-radius: 5px;
+}
+
+.hand-area > h1{
+  color: #FFF;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: normal;
+}
+.hand-area button{
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  border: none;
+  color: orangered;
+  background: #FFF;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 25px;
+}
+/* hand area ends */
